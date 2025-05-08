@@ -1,7 +1,7 @@
 # ASP.NET-Trip-Management-System
 
 ## Overview
-This project is a RESTful API developed using **ASP.NET Core** for managing clients and their trip registrations. It uses **ADO.NET** with `SqlConnection` and `SqlCommand` to interact with a SQL Server database, without relying on any ORM like Entity Framework.
+This project is a REST API developed using **ASP.NET Core** for managing clients and their trip registrations. It uses **ADO.NET** with `SqlConnection` and `SqlCommand` to interact with a SQL Server database, without relying on any ORM like Entity Framework.
 
 ## Features
 - Create new clients with input validation
