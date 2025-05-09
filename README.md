@@ -32,8 +32,3 @@ This project is a REST API developed using **ASP.NET Core** for managing clients
 - `404 Not Found`: Client or trip not found
 - `409 Conflict`: Duplicate registration or PESEL conflict
 - `500 Internal Server Error`: Unhandled exceptions
-
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/mertAltinbas/ASP.NET-Trip-Management-System.git
